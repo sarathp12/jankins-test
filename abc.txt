@@ -2,3 +2,4 @@ welcome to the project
 more code lines need to be added
 First select building design while specifying fire alarms and fire exit routes
 Identify a secure place for the central server.
+need input  for new strings
